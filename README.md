@@ -32,5 +32,7 @@ python3 hash_function.py
 
 bash
 Enter the message to hash: Hello, World!
+
 Choose a hash algorithm (md5, sha1, sha256): sha256
+
 The SHA256 hash of the message is: a591a6d40bf420404a011733cfb7b190d62c65bf0bcda32b
