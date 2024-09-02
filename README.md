@@ -17,8 +17,8 @@ This project demonstrates a simple implementation of hash functions using Python
 No external libraries are required for this project. The hashlib library used in this project is part of Python's standard library.
 
 **Run the Script**:
-    - Open your terminal or command prompt and navigate to the directory where the script is located.
-    - Run the script with Python:
+- Open your terminal or command prompt and navigate to the directory where the script is located.
+- Run the script with Python:
       
 bash
 python3 hash_function.py
