@@ -24,9 +24,9 @@ bash
 python3 hash_function.py
 
 **Input and Output**:
-    - The script will prompt you to enter a message.
-    - Then, you'll be asked to choose a hash algorithm (md5, sha1, or sha256).
-    - The script will generate and display the hash value of the message.
+- The script will prompt you to enter a message.
+- Then, you'll be asked to choose a hash algorithm (md5, sha1, or sha256).
+- The script will generate and display the hash value of the message.
 
 ### Example
 
